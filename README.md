@@ -23,6 +23,8 @@ The driver was developed for and tested with Raspberry Pi OS, but it should work
 - Binutils: 2.40
 - Raspbian version: 1:6.6.74-1+rpt1
 
+**Note**: The source code once compiled should work on ALL Raspberry Pi boards using the same OS (Bookworm)
+
 ### Compiling the Driver
 
 To compile the driver on your system, you can use the provided Makefile. Ensure that you have the necessary build tools and kernel headers installed.
