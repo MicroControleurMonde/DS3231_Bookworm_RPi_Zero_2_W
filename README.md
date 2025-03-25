@@ -82,7 +82,7 @@ If you have changed the I2C address of your DS3231 module, you might need to mod
 
 ### License
 
-This driver is licensed under the GPL v3 license.
+This driver is licensed under the GPL v2 license.
 
 
 
