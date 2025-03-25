@@ -63,7 +63,7 @@ sudo insmod ds3231.ko
 dmesg | grep ds3231
 ```
 
-7.** Use the rtc interface to set or read the time**:
+7. **Use the rtc interface to set or read the time**:
 
 ```bash
 sudo hwclock -r
