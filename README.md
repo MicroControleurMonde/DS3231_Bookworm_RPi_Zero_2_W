@@ -74,14 +74,22 @@ sudo hwclock -w
 
 ### I2C Address
 
-By default, the driver assumes the DS3231 RTC module is using the standard I2C address 0x68. The I2C address is implicitly managed through the use of I2C functions.
+By default, the driver assumes that the DS3231 RTC module uses the standard I2C address 0x68. The I2C address is implicitly managed by the use of I2C functions.
+I haven't done the test in case the module address differs. 
 
-If you have changed the I2C address of your DS3231 module, you might need to modify the source code to reflect the new address.
+So be cautious.
 
 ### Special thanks:
-- Phil (RPi Engineer)
+- PhilE (RPi Engineer)
 - 6by9 (RPi Engineer)
 for their detailed technical help and ~~comments~~ guidance on the GPLv2 vs GPL v3
+
+### To do:
+
+- Support for alarm (Alarm 1 and Alarm 2)
+- Support for temperature management
+- Resetting the clock
+- Improve the documentation
 
 ### License
 
