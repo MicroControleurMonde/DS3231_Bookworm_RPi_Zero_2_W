@@ -82,6 +82,7 @@ So be cautious.
 ### Special thanks:
 - [PhilE](https://forums.raspberrypi.com/memberlist.php?mode=viewprofile&u=121689&sid=248f63f90532989b76f9143e54a09476)
 - [6by9](https://forums.raspberrypi.com/memberlist.php?mode=viewprofile&u=92334)
+  
 for their detailed technical help and ~~comments~~ guidance on the GPLv2 vs GPL v3
 
 ### To do:
