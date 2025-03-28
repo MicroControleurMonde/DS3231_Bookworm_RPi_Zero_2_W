@@ -90,6 +90,10 @@ for their detailed technical help and ~~comments~~ guidance on the GPLv2 vs GPL 
 - Support for alarm (Alarm 1 and Alarm 2)
 - Support for temperature management
 - Resetting the clock
+- Signal management (SQW,32kHz)
+- Format functions
+- SRAM management
+- Additional information (isLostPower)
 - Improve the documentation
 
 ### License
